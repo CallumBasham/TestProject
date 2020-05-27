@@ -12,7 +12,7 @@ namespace TestProject
         {
             Console.WriteLine("GitHub Test!");
 
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!"); //Josh's changes
 
             Console.ReadLine();
         }
